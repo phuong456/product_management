@@ -30,12 +30,12 @@ This is a simple Laravel-based Product Management System that allows users to pe
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/laravel-product-management.git
+   git clone https://github.com/phuong456/product_management.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd laravel-product-management
+   cd product_management
    ```
 
 3. Install dependencies:
